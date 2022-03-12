@@ -11,7 +11,7 @@ const CONFIG = {
   // └─┘┴ ┴└─┘┴└─┘└─┘
 
   // General
-  name: 'John',
+  name: 'MK',
   imageBackground: false,
   openInNewTab: true,
   twelveHourFormat: false,
@@ -26,7 +26,7 @@ const CONFIG = {
   bentoLayout: 'bento', // 'bento', 'lists', 'buttons'
 
   // Weather
-  weatherKey: 'InsertYourAPIKeyHere123456', // Write here your API Key
+  weatherKey: '5073e6a1abfe9498ae88f0e3ce55f8a1', // Write here your API Key
   weatherIcons: 'OneDark', // 'Onedark', 'Nord', 'Dark', 'White'
   weatherUnit: 'C', // 'F', 'C'
   language: 'en', // More languages in https://openweathermap.org/current#multi
@@ -55,37 +55,37 @@ const CONFIG = {
       id: '1',
       name: 'Github',
       icon: 'github',
-      link: 'https://github.com/',
+      link: 'https://github.com/CoolGuyMK',
     },
     {
       id: '2',
       name: 'Mail',
       icon: 'mail',
-      link: 'https://mail.protonmail.com/',
+      link: 'https://mail.google.com',
     },
     {
       id: '3',
-      name: 'Todoist',
-      icon: 'trello',
-      link: 'https://todoist.com',
+      name: 'Facebook',
+      icon: 'facebook',
+      link: 'https://facebook.com',
     },
     {
       id: '4',
-      name: 'Calendar',
-      icon: 'calendar',
-      link: 'https://calendar.google.com/calendar/r',
+      name: 'Classroom',
+      icon: 'book',
+      link: 'https://classroom.google.com',
     },
     {
       id: '5',
-      name: 'Reddit',
-      icon: 'glasses',
-      link: 'https://reddit.com',
+      name: 'Music',
+      icon: 'headphones',
+      link: 'https://open.spotify.com',
     },
     {
       id: '6',
-      name: 'Odysee',
+      name: 'YouTube',
       icon: 'youtube',
-      link: 'https://odysee.com/',
+      link: 'https://youtube.com',
     },
   ],
 
@@ -139,20 +139,20 @@ const CONFIG = {
       id: '1',
       links: [
         {
-          name: 'Inspirational',
-          link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+          name: 'Wegz 😍',
+          link: 'https://open.spotify.com/track/5kdlxZ5skOYY3VK8RlfEIZ?si=485453b738154d15',
         },
         {
-          name: 'Classic',
-          link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+          name: 'Pablo 🤩',
+          link: 'https://open.spotify.com/track/5NcTOxzo2WE20tFdtUhbAM?si=7846a9d0ba8a48b1',
         },
         {
-          name: 'Oldies',
-          link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+          name: 'Saasa 😢',
+          link: 'https://open.spotify.com/track/3FdV0iO6fskyPeYnrMsKPM?si=07f02bf53b004b83',
         },
         {
-          name: 'Rock',
-          link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+          name: 'Wegz #2 😍',
+          link: 'https://open.spotify.com/track/5f9LkVShiWDnG5nVvZXNuu?si=280c1f3e1d59474f',
         },
       ],
     },
@@ -161,20 +161,20 @@ const CONFIG = {
       id: '2',
       links: [
         {
-          name: 'Linkedin',
-          link: 'https://www.linkedin.com',
+          name: 'Telegram',
+          link: 'https://t.me/SILENT_KILLER404',
         },
         {
-          name: 'Dribbble',
-          link: 'https://www.dribbble.com',
+          name: 'Facebook',
+          link: 'https://www.facebook.com/coolguymk',
         },
         {
-          name: 'Trello',
-          link: 'https://www.trello.com',
+          name: 'Instagram',
+          link: 'https://www.instagram.com/bruhh.mk',
         },
         {
-          name: 'Slack',
-          link: 'https://www.slack.com',
+          name: 'Reddit',
+          link: 'https://www.reddit.com/user/CoolGuyMK1',
         },
       ],
     },
